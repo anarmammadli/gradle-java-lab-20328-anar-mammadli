@@ -1,0 +1,18 @@
+# Gradle build files
+/build/
+/.gradle/
+/out/
+
+# Java class files
+*.class
+
+# Logs
+*.log
+
+# IDE files (optional, if you use IntelliJ, Eclipse, VSCode)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
