@@ -5,7 +5,7 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "Gradle build and Git workflow successful. Student B updated.";
+        return "Final version is ready!.";
     }
 
     public static void main(String[] args) {
